@@ -1,0 +1,9 @@
+{
+  "version": "4.0.11.0",
+  "archive": "Chaos.Launcher.zip",
+  "sha256": "58d070ca77a271de373b2c8c0879e9deddd7d7eb1d17d82110a1559db0a33077",
+  "baseline_tag": "v4.0.3-mac1",
+  "baseline_asset": "unora-launcher.apple.silicon.zip",
+  "baseline_sha256": "c2ed782cfa2983c4798c67b10280ad3153a0e6bc274ff8491b3b0ffd73af8526",
+  "runtime_version": "10.0.10"
+}
