@@ -1,4 +1,4 @@
-RWX'S REALLY COOL UNORA LAUNCHER FOR MAC
+RWX'S REALLY COOL (UNOFFICIAL) UNORA LAUNCHER FOR MAC
 ========================================
 
 System requirements
